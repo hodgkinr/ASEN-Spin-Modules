@@ -9,4 +9,7 @@ When shield is plugged in, Tx stops and board goes unresponsive. Tx begins when 
 using jumpers to individually plug in each line. When A5 plugged in and uno reset, tx stops
 A5 is the problem!!
 
+10/11/2017 - Bobby
+Made a comment here.  I'm trying out the git hubs.
+
 
