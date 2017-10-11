@@ -1,3 +1,5 @@
+//10/11/2017 Bobby
+
 // The SFE_LSM9DS1 library requires both Wire and SPI be
 // included BEFORE including the 9DS1 library.
 #include <Wire.h>
