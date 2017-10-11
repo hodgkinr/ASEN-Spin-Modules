@@ -1,0 +1,3 @@
+Due may need pullup I2C  resistors on SDA1 and SCL1. LM9DS1 Breakout may have them
+
+

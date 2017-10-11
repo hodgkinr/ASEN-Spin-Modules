@@ -1,0 +1,12 @@
+If the LSM9DSU is plugged into the 3.3V line , SDA, SCL, and the upper of the two gnd pins on the left side of the 
+redboard, the board fails and stops responding.
+
+
+Debugging:
+
+When shield is plugged in, Tx stops and board goes unresponsive. Tx begins when shield unplugged
+
+using jumpers to individually plug in each line. When A5 plugged in and uno reset, tx stops
+A5 is the problem!!
+
+

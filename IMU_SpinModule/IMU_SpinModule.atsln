@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "IMU_SpinModule", "IMU_SpinModule.cppproj", "{7CC454D8-A11B-4F21-B510-8102BBF61DD3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FB0A0E50-CB5B-4894-8B73-C874FFA2BB4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CC454D8-A11B-4F21-B510-8102BBF61DD3}.Debug|ARM.ActiveCfg = Debug|ARM
+		{7CC454D8-A11B-4F21-B510-8102BBF61DD3}.Debug|ARM.Build.0 = Debug|ARM
+		{7CC454D8-A11B-4F21-B510-8102BBF61DD3}.Release|ARM.ActiveCfg = Release|ARM
+		{7CC454D8-A11B-4F21-B510-8102BBF61DD3}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
